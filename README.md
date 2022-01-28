@@ -1,0 +1,2 @@
+# Image-Classification-with-Pre-trained-Keras-models
+Understanding the pre-trained models is very important because this forms the basis of transfer learning. one of the most appreciated techniques to perform the classification of a different task thus reducing the training time, the number of iterations, and resource consumption. Learning about the pre-trained models and working hands-on with such models is thus very crucial in deep learning, and the same is the aim of this project.
